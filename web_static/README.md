@@ -2,8 +2,7 @@
 
 ## Description
 
-This project is part of the Holberton School curriculum AirBnB clone.
-Its goal is to create a static webpage and to understand the basics of HTML and CSS.
+This folder contains the static website built for the project. It is done in CSS and HTML. It doubles as an introduction to those languages.
 
 ## Table of contents
 
@@ -19,6 +18,5 @@ All the .css stylesheets are situated in the [styles](./styles/) directory.
 
 All the icons and logos used for this project are in the [images](./images/) directory.
 
-## Author (solo project)
-
-Laura Roudge
+## Author
+* **Adesanmi Aderemi** [Github](https://github.com/Remmy3464) || [Gmail](adesanmiaderemi@gmail.com)
